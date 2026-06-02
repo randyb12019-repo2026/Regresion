@@ -61,7 +61,7 @@ docker compose run --rm regresion jupyter notebook --ip=0.0.0.0 --port=8888 --al
 
 ## Autor
 
-Randy Bonucci Martin — Proyecto educativo, Bootcamp Data & IA
+Randy Bonucci — Proyecto educativo, Bootcamp Data & IA
 
 ## Licencia
 
