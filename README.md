@@ -27,13 +27,10 @@ Proyecto educativo de regresion lineal, multiple y polinomica con Python y sciki
 Regresion/
 ├── notebooks/
 │   └── regresion.ipynb               # Notebook principal con modelos de regresion
-├── src/                              # Modulos Python reutilizables (pendiente)
-├── data/                             # Datasets generados o descargados (sklearn)
-├── reports/                          # Reportes y conclusiones del analisis
 ├── Dockerfile                        # Imagen Python 3.13-slim con Jupyter
 ├── docker-compose.yml                # Orquestacion del contenedor con volumenes
 ├── .venv/                            # Entorno virtual Python 3.13
-├── .gitignore                        # Exclusiones para git
+├── .gitkeep
 ├── requirements.txt                  # Dependencias del proyecto
 ├── LICENSE                           # Licencia MIT
 └── README.md                         # Documentacion del proyecto
