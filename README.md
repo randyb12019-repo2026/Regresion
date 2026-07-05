@@ -1,5 +1,8 @@
 # Regresion - Proyecto de Modelos de Regresion
 
+[![GitHub Pages](https://img.shields.io/badge/demo-%F0%9F%9A%80%20GitHub%20Pages-00f0ff?style=for-the-badge)](https://randyb12019-repo2026.github.io/Regresion/)
+[![NBViewer](https://img.shields.io/badge/demo-%F0%9F%93%93%20NBViewer-a855f7?style=for-the-badge)](https://nbviewer.org/github/randyb12019-repo2026/Regresion/blob/main/notebooks/regresion.ipynb)
+
 Actividad del Bootcamp de Data Analysis & IA en **Upgrade Hub**.
 
 Proyecto educativo de regresion lineal, multiple y polinomica con Python y scikit-learn.
@@ -35,6 +38,13 @@ Regresion/
 ├── LICENSE                           # Licencia MIT
 └── README.md                         # Documentacion del proyecto
 ```
+
+## Demo
+
+Puedes ver el notebook completo renderizado aquí:
+
+- **🚀 GitHub Pages** — https://randyb12019-repo2026.github.io/Regresion/
+- **📓 NBViewer** — https://nbviewer.org/github/randyb12019-repo2026/Regresion/blob/main/notebooks/regresion.ipynb
 
 ## Requisitos
 
